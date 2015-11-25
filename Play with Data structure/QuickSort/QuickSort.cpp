@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 
-#include "..\..\Include\common.h"                      //The common struct for Algorithm
+#include "..\Include\common.h"                      //The common struct for Algorithm
 
 void swap(sortArray_t *sortArray,int index_i,int index_j)   //sortArray[index_i]<==>sortArray[index_j]
 {
