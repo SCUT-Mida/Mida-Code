@@ -1,0 +1,1 @@
+#Generic Algorithm（泛型算法）

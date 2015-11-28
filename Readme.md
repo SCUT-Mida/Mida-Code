@@ -3,4 +3,5 @@
 
 ####主要目录
 *	Play with Data structure 《大话数据结构》
-*	C++ Primer 第五版
+*	C++ Primer 《C++ Primer 第五版》
+*	LeetCode 《Solutions by @Mida》
